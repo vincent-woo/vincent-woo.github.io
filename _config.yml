@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
+baseurl: ""
 url: "https://vincent-woo.github.io"
 title: Vincent's Blog # site's title
 description: "Sharing of mobile development skills like architecture, patterns and technologies." # used by search engines
@@ -18,10 +18,10 @@ theme_settings:
      <p>Change header text in <code>_config.yml</code> <br> to update this feature.</p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/vincent-woo">Vincent's Blog</a>
 
   # Icons
-  rss: true  # Make sure you created a feed.xml with feed.xml layout
+  rss:   # Make sure you created a feed.xml with feed.xml layout
   email_address: realplord@gmail.com # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
